@@ -4,15 +4,7 @@ Discord topluluk sunucuları için geliştirilmiş, **otomatik masaüstü uygula
 
 ---
 
-## 👑 Kurucu ve Güvenlik Koruması
-
-* **Sistem Kurucusu (Tek Dokunulmaz Admin):** `@MoonDark` (`Discord ID: 868123530439557171`)
-* **Giriş Güvenliği:** Panele veya masaüstü uygulamasına sadece Kurucu tarafından `Bot Ayarları` panelinden eklenen **Yönetici** ve **Sunucu Yetkilisi** Discord ID'leri giriş yapabilir.
-* **Yetkilendirme Kilidi:** Yönetici ve Yetkili ID listelerini ekleme/çıkarma yetkisi yalnızca Kurucu (`868123530439557171`) hesabına kilitlenmiştir.
-
----
-
-## 💻 MASAÜSTÜ UYGULAMALARI (2 AYRI VERSİYON) - HİÇBİR KOMUT / NODE YÜKLEMEDEN ÇALIŞTIRMA!
+## 💻 MASAÜSTÜ UYGULAMALARI - (2 AYRI VERSİYON)
 
 Yöneticilerinize ve yetkililerinize herhangi bir terminal komutu kullandırtmak, Node.js veya kod yükletmek **GEREKMEZ!**
 
