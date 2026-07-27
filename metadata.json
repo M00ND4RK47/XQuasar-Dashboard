@@ -1,0 +1,6 @@
+{
+  "name": "XQuasar Dashboard",
+  "description": "XQuasar topluluk sunucuları için yetkilendirilmiş bot yönetim ve moderasyon paneli.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
